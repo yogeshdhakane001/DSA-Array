@@ -1,2 +1,5 @@
 # DSA-Array
- 🚀 Excited to announce our new GitHub repository - DSA Array Challenges Array Basic To Advance
+ 🚀 Excited to announce our new GitHub repository 
+ - DSA Array
+ - Challenge yourself Array
+ - use Java Programming.
